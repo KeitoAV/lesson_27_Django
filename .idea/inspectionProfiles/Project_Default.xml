@@ -1,0 +1,44 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="ComposeMissingKeys" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ComposeUnknownKeys" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ComposeUnknownValues" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ComposeUnquotedPorts" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DockerFileArgumentCount" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DockerFileAssignments" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DockerFileRunCommandMissingContinuation" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="159" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="EditorConfigEmptyHeader" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigMissingRequiredDeclaration" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigReferenceCorrectness" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigRootDeclarationUniqueness" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigValueCorrectness" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigValueUniqueness" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="5">
+            <item index="0" class="java.lang.String" itemvalue="{{" />
+            <item index="1" class="java.lang.String" itemvalue="candidate.name" />
+            <item index="2" class="java.lang.String" itemvalue="}}" />
+            <item index="3" class="java.lang.String" itemvalue="{{src" />
+            <item index="4" class="java.lang.String" itemvalue="candidate.picture" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tasks_5_5.hour" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
